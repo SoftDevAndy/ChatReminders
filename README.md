@@ -36,3 +36,44 @@ The configuration file looks like this
 **REMINDER_DAYS_PERIOD** is how many days (from the first time visted date) that the player will recieve reminders for
 
 **TAG** is the text to prepends any reminder sent to the user
+
+## Adding a reminder message
+
+Reminders are added manually in the data file for the plugin found at
+
+```
+The data/ChatReminder.json
+```
+
+The data file looks like the following. The format is very easy to follow
+
+```
+{
+  "reminders": [
+    {
+      "reminderMessage": "<color=\"#89C4F4\">180s Message</color>",
+      "remindTime": 180
+    },
+    {
+      "reminderMessage": "<color=\"#89C4F4\">330s Message</color>",
+      "remindTime": 330
+    }
+  ],
+  "playersNewbs": [
+    {
+      "joinTime": "2017-02-18T23:59:36.1329739Z",
+      "originaldisplayName": "Newbie",
+      "userID": "xxxxxxxxxxxxxxxxxxx",
+      "logins": 1
+    }
+  ],
+  "playersVets": [
+    {
+      "joinTime": "2017-02-22T23:59:36.1329739Z",
+      "originaldisplayName": "Vet User",
+      "userID": "xxxxxxxxxxxxxxxxxxx",
+      "logins": 5
+    }
+  ]
+}
+```
