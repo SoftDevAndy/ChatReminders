@@ -7,6 +7,8 @@ New players need a little extra help so this plugin was designed to pester them 
 
 **Reminders are sent to the player privately to keep the chat free of clutter!**
 
+**The plugin tracks when players login so there is no micromanagement!**
+
 ## Configuring the plugin
 
 The configuration file is found in
