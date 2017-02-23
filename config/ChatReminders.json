@@ -1,0 +1,7 @@
+{
+  "ALLOW_REMINDERS": true,
+  "COLOR_TAG" : "#F5D76E",
+  "LOGINS_REQUIRED" : 3,
+  "REMINDER_DAYS_PERIOD" : 3,
+  "TAG" : "[REMINDER]"
+}

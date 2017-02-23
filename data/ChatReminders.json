@@ -1,0 +1,28 @@
+{
+  "reminders": [
+    {
+      "reminderMessage": "<color=\"#89C4F4\">180s Message</color>",
+      "remindTime": 180
+    },
+    {
+      "reminderMessage": "<color=\"#89C4F4\">330s Message</color>",
+      "remindTime": 330
+    }
+  ],
+  "playersNewbs": [
+    {
+      "joinTime": "2017-02-18T23:59:36.1329739Z",
+      "originaldisplayName": "Newbie",
+      "userID": "xxxxxxxxxxxxxxxxxxx",
+      "logins": 1
+    }
+  ],
+  "playersVets": [
+    {
+      "joinTime": "2017-02-22T23:59:36.1329739Z",
+      "originaldisplayName": "Vet User",
+      "userID": "xxxxxxxxxxxxxxxxxxx",
+      "logins": 5
+    }
+  ]
+}
