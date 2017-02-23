@@ -5,24 +5,27 @@ Oxide Plugin for Rust, Used to remind newer players of features for the first fe
 
 The configuration file is found in
 
-'''config/ChatReminders.json
-'''
+```
+config/ChatReminders.json
+```
 
 Whenever you make a change to the plugin you will need to reload it using the following command.
 
-'''oxide.reload ChatReminders 
-'''
+```
+oxide.reload ChatReminders 
+```
 
 The configuration file looks like this
 
-'''{
+```
+{
   "ALLOW_REMINDERS": true,
   "COLOR_TAG" : "#F5D76E",
   "LOGINS_REQUIRED" : 3,
   "REMINDER_DAYS_PERIOD" : 3,
   "TAG" : "[REMINDER]"
 }
-'''
+```
 
 **ALLOW_REMINDERS** lets you set if you wish to switch all reminders on or off using true or false.
 
