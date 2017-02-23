@@ -1,7 +1,11 @@
 # ChatReminders
 Oxide Plugin for Rust, Used to remind newer players of features for the first few days of their time on the server.
 
+![https://puu.sh/ufCIL/8b5cbf94a7.jpg][Plugin Image]
+
 New players need a little extra help so this plugin was designed to pester them a little with some custom reminder messages for however many days you decide. This helps remind players about the many mods and commands on the server that they don't know about or utilize yet. Custom messages are easy to add and a configuration file is included.
+
+**Reminders are sent to the player privately to keep the chat free of clutter!**
 
 ## Configuring the plugin
 
