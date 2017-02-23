@@ -10,19 +10,7 @@
     }
   ],
   "playersNewbs": [
-    {
-      "joinTime": "2017-02-18T23:59:36.1329739Z",
-      "originaldisplayName": "Newbie",
-      "userID": "xxxxxxxxxxxxxxxxxxx",
-      "logins": 1
-    }
   ],
   "playersVets": [
-    {
-      "joinTime": "2017-02-22T23:59:36.1329739Z",
-      "originaldisplayName": "Vet User",
-      "userID": "xxxxxxxxxxxxxxxxxxx",
-      "logins": 5
-    }
   ]
 }
